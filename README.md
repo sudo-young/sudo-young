@@ -19,17 +19,15 @@
 
 📌 **주요 프로젝트**
 
-### 💼 [Corporate Tax 자동화](https://github.com/sudo-young/corporatetax)
-> 법인세 업무를 자동화하는 웹 애플리케이션입니다.  
-[👉 배포된 페이지 보기](https://sudo-young.github.io/corporatetax/)
-
+### 💼 [세무 데이터 처리](https://github.com/sudo-young/corporatetax)
+ 
 ---
-
+<!--
 📊 **GitHub 통계**
 
 ![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-young&show_icons=true&theme=default)
-
+--!>
 ---
 
 📫 **Contact**
-- Email: corporatetax.sy@gmail.com (원하시면 수정!)
+- Email: corporatetax.sy@gmail.com 
